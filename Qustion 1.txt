@@ -1,0 +1,9 @@
+Qustion -- difference between statics and nonStstics ..
+
+
+Ans -- 
+
+ststics belons class while Non-Ststics belongs to Objects .
+ststics can be acces by using Class name and member name while Non-Statics can be asses by Using ObjectName 
+statics varible inastilase with default value at the time of class loading while non ststics inastize with default vallu at a time of object .
+
